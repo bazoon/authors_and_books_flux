@@ -1,0 +1,22 @@
+{
+  "name": "newbooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.4",
+    "flux": "^2.0.3",
+    "http-server": "^0.8.0",
+    "q": "^1.4.1",
+    "react": "^0.13.3",
+    "requesty": "^0.10.0",
+    "reqwest": "^1.1.5",
+    "superagent": "^1.2.0",
+    "underscore": "^1.8.3"
+  }
+}
